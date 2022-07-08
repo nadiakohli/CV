@@ -4,6 +4,13 @@
   box-sizing: border-box;
 }
 
+html {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 body {
   margin: 0;
   font-family: 'Tapestry-Regular', 'Segoe UI', 'Roboto', 'Oxygen',
