@@ -14,12 +14,9 @@ import { H3, Info } from '../styled';
 const Img = styled.img`
   border-radius: 0 50px 0 0;
   width: 275px;
-  height: 325px;
 `;
 
 const Wrapper = styled.div`
-  width: 275px;
-  height: 700px;
   background-color: #282a2f;
 `;
 
